@@ -7,7 +7,7 @@ Here in this project we are creating token for company DEGEN GAMING using ERC-20
 Here we have created tokens for DEGEN GAMING company using ERC-20.
 The project has been deployed on the localhost network using avalanche testnet faucet for the testing purposes.
 Here the owner can mint tokens as well as redeem them to get some rewards in game like gun skins.
-For more query and how to do it head to Guide.md.
+For more query and how to do it head to metacrafters site for perfect guidance
 
 ## Tech used
 
